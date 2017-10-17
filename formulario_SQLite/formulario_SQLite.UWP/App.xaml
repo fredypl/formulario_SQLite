@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="formulario_SQLite.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:formulario_SQLite.UWP"
+    RequestedTheme="Light">
+
+</Application>
